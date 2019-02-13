@@ -11,7 +11,7 @@
 	<title>Avinash Barik | Software Engineer</title>
 </head>
 <body>
-	<nav class="navbar fixed-top navbar-dark bg-dark navbar-expand-sm mb-5">
+	<nav class="navbar navbar-dark bg-dark navbar-expand-sm mb-5">
 		<div class="container">
 			<a href="#" class="navbar-brand">
 				Avinash Barik				
@@ -41,9 +41,9 @@
 			
 			<div class="row mb-3">
 				<section class="col-md-2">
-					<h3 class="text-secondary text-md-left text-center">Summary</h3>
+					<h3 class="text-secondary text-left">Summary</h3>
 				</section>
-				<section class="col-md-10 text-md-left text-center">
+				<section class="col-md-10 text-left">
 					<p>
 						Technically proficient software engineering professional with hands-on experience in developing software features, architecture and tools for traditional and cloud-based industries.
 					</p>
@@ -62,17 +62,17 @@
 				</section>
 			</div> <!-- End row -->
 
-			<div id="experience" class="row mb-3">
+			<div id="experience" class="row mb-5">
 				<section class="col-md-12">
-					<h3 class="text-secondary text-md-left text-center">Experience</h3>
+					<h3 class="text-secondary text-left">Experience</h3>
 				</section>
 				<section class="col-md-2">
-					<h4 class="text-md-left text-center">Pixel Together</h4>
+					<h4 class="text-left">Pixel Together</h4>
 				</section>
 				<!-- <section class="col-md-1">
 					<div style="background: url('images/bg-1.png') repeat-y; width:50px;"></div>
 				</section> -->
-				<section class="col-md-10 text-md-left text-center">
+				<section class="col-md-10 text-left">
 					<h5 clas="col-md-12">Software Engineer</h5>
 					<p class="text-secondary">November 2017-Present <br/> Melbourne, Australia</p>
 					
