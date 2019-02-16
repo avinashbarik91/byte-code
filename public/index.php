@@ -28,7 +28,7 @@
 	<div class="container pt-5">
 		<div class="content">
 			
-			<div class="row mb-5 bg-light p-5"">
+			<div class="row mb-5 bg-light p-5 rounded">
 				<section class="col-md-12 text-center mb-3">
 					<img class="rounded-circle" src="images/avinash_barik_prof_pic.jpg" style="width:20%;">
 				</section>
@@ -95,8 +95,8 @@
 			</div> <!-- End row -->
 		</div><!-- End content -->	
 	</div><!-- End container -->
-	<div class="bg-dark" style="height: 50px;">
-		
+	<div class="footer bg-dark" style="height: 50px;">
+		<p class="footer-text text-center mb-0 text-light">Developed By Avinash Barik</p>
 	</div>
 
 	<script src="js/jquery.slim.min.js"></script>
