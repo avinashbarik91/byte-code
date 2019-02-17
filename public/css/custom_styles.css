@@ -5,3 +5,125 @@ body {
 .footer .footer-text {
 	line-height: 50px;
 }
+
+.navbar {
+	background-color: white;	
+}
+
+.navbar a, .navbar-brand {
+	transition: color 0.2s ease;
+	color: #49274a;
+}
+
+.navbar a:hover {
+	color: #2b2b2b;
+}
+
+.timeline {
+	background-color: #cacaca61;
+    width: 5px;
+    height: 100%;
+    border-radius: 5px;
+    margin: auto;
+}
+
+.timeline-start {
+	background-color: #cacaca61;
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding-bottom: 5px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.section-title {
+	font-family: 'Oswald', sans-serif;
+	color: #49274a;	
+}
+
+.navbar-brand, .section-title{	
+	color: #49274a;	
+}
+
+.text-company {
+	color: #C09F80;
+}
+
+.intro-bio-section {
+	height: 100vh;
+    background: 
+    url(/images/avi-prof-7.JPG);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover; 
+    max-width: 100%;    
+}
+
+.intro-bio-text-area {
+	font-family: 'Oswald', sans-serif;
+	color: white;
+	padding-top: 40vh; 	
+	width: 350px;
+    margin: auto;
+}
+
+.intro-bio-text-area span {	
+	font-style: italic;
+    font-size: 2rem;
+}
+
+.intro-bio-text-area h1 {
+	font-size: 3.5rem;
+	position: relative;
+}
+
+.intro-bio-text-area h1::before {
+	content: " ";
+    height: 2px;
+    width: 80px;
+    display: inline-block;
+    background-color: white;
+    position: absolute;
+    top: 52%;
+    left: 100%;
+}
+
+.intro-bio-text-area h1::after {
+	content: " ";   
+    height: 2px; 
+    width: 80px;    
+    display: inline-block; 
+    background-color: white;  
+    position: absolute;
+    top: 52%;
+   	right: 100%;
+}
+
+.container-wrapper:nth-child(odd) {
+	background: #e9e9e97d;
+}
+
+.section-detail p:first-child {
+	font-style: italic;
+}
+
+.job-title {
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.5rem;
+	position: relative;
+}
+
+.expand-icon, .contract-icon {
+	position: absolute;    
+    top: 0;
+    right: 0;
+    cursor: pointer;
+}
+
+.expand-icon {
+	display: none;
+}
+
+
