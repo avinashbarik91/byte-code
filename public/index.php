@@ -58,41 +58,58 @@
 				</section>
 			</div> -->
 
-
 		<div class="container-wrapper mb-5 px-5">
 			<div class="container py-5">	
 				<div class="row mb-4">
 					<section class="col-md-12">
-						<h3 class="section-title text-center pb-4">SUMMARY</h3>
+						<h3 class="section-title text-center pb-4">WELCOME</h3>
 					</section>
 					<section class="section-detail offset-md-2 col-md-8 text-center">
 						<p>
-							Technically proficient engineering professional with hands-on experience in developing and designing
+							Hi there! Welcome to my personal website. 
+						</p>
+						<p>I started this website to blog about tips, tricks and my day to day learnings, related to software and technology in general. I aim to write a few articles each week related to specific software problems I came across and how I went about solving it.</p>
+
+						<a href="#blog-section" <button type="button" class="btn btn-dark-custom">Visit my Blog</button></a>						
+					</section>
+				</div> <!-- End row -->
+			</div><!-- End container -->
+		</div>	
+
+		<div class="container-wrapper mb-3 px-5">
+			<div class="container py-5">	
+				<div class="row mb-4">
+					<section class="col-md-12">
+						<h3 class="section-title text-center pb-4">WHO AM I?</h3>
+					</section>
+					<section class="section-detail offset-md-2 col-md-8 text-center">
+						<p>
+							I am an engineering professional with hands-on experience in developing and designing
 							software features, architecture and tools for traditional and large-scale distributed cloud-based
 							industries.
+						</p>
+
+						<p>
+							Problem-solving and working on products that impacts people's lives, is what drives me. My experience in the software industry includes software development, automation testing and user-experience design. 
 						</p>
 
 						<p>
 							I am currently working as software engineer at Pixel Together, developing new features and tools for the Pixel Together platform as well as for World Academy of Sport. 
 						</p>
 
-						<p>
-							Problem-solving and working on a product that truly impacts people's lives, is what drives me. I have a broad experience in the software industry which includes software development, automation testing and user-experience design. 
-						</p>
-
 						<p>	
-							My interests include following and learning the latest trends in the field of technology, playing/following cricket and badminton and graphic designing.
+							When I am not working I love to indulge in sports, especially cricket and badminton.
 						</p>
 					</section>
 				</div> <!-- End row -->
 			</div><!-- End container -->
 		</div>
 
-		<div class="container-wrapper mb-5 px-5">
+		<div class="container-wrapper mb-5 pb-5">
 			<div id="experience" class="container pt-2">
 				<div class="row mb-4">
-					<section class="col-md-12">
-						<h3 class="section-title text-center pb-4">EXPERIENCE</h3>
+					<section class="col-md-12 pt-5">
+						<h3 class="section-title text-center pb-4">WORK EXPERIENCE</h3>
 					</section>
 					<section class="col-md-2">						
 						<figure>
@@ -183,13 +200,18 @@
 		</div><!-- End container wrapper-->
 
 		<div class="container-wrapper mb-2 pt-2">
-			<div class="container text-center text-md-left py-5">	
-
-				<div class="row mb-5">
-					<section class="col-md-12">
+			<div class="container text-center text-md-right py-5">	
+				<section id="blog-section" class="col-md-12">
 						<h3 class="section-title text-center pb-4">BLOG</h3>
-					</section>
-					<section class="section-detail offset-md-2 col-md-5">	
+				</section>
+				<div class="row mb-5">					
+					<section class="offset-md-2 col-md-3">
+						<figure class="pt-1">
+							<img class="rounded"src="images/blog1.jpeg" alt="Blog 1" width="250" height="180">
+						</figure>
+						<figcaption class="text-center">Blog title 1 caption</figcaption>
+					</section>	
+					<section class="section-detail col-md-5">	
 						<h3>Blog Title 1</h3>
 						<p class="text-secondary">February 17th, 2019</p>					
 						<p>
@@ -197,16 +219,17 @@
 						</p>
 						<button type="button" class="btn btn-dark-custom">Read More</button>
 					</section>
-					<section class="col-md-3">
-						<figure class="pt-1">
-							<img class="rounded"src="images/blog1.jpeg" alt="Blog 1" width="250" height="180">
-						</figure>
-						<figcaption class="text-center">Blog title 1 caption</figcaption>
-					</section>					
+									
 				</div> <!-- End row -->
 
-				<div class="row mb-5">					
-					<section class="section-detail offset-md-2 col-md-5">	
+				<div class="row mb-5">
+					<section class="offset-md-2 col-md-3">
+						<figure class="pt-1">
+							<img class="rounded"src="images/blog2.jpeg" alt="Blog 1" width="250" height="180">
+						</figure>
+						<figcaption class="text-center">Blog title 2 caption</figcaption>
+					</section>
+					<section class="section-detail col-md-5">	
 						<h3>Blog Title 2</h3>
 						<p class="text-secondary">February 17th, 2019</p>					
 						<p>
@@ -214,12 +237,7 @@
 						</p>
 						<button type="button" class="btn btn-dark-custom">Read More</button>
 					</section>
-					<section class="col-md-3">
-						<figure class="pt-1">
-							<img class="rounded"src="images/blog2.jpeg" alt="Blog 1" width="250" height="180">
-						</figure>
-						<figcaption class="text-center">Blog title 2 caption</figcaption>
-					</section>					
+									
 				</div> <!-- End row -->
 
 			</div><!-- End container wrapper-->
