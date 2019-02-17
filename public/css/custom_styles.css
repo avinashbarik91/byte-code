@@ -41,6 +41,20 @@ body {
 .section-title {
 	font-family: 'Oswald', sans-serif;
 	color: #49274a;	
+	position: relative;
+	width: 200px;
+	margin: auto;
+}
+
+.section-title::after {
+	content: " ";
+    height: 2px;
+    width: 66px;
+    display: inline-block;
+    background-color: #49274a;
+    position: absolute;
+    top: 66%;
+    right: 32%;
 }
 
 .navbar-brand, .section-title{	
@@ -124,6 +138,12 @@ body {
 
 .expand-icon {
 	display: none;
+}
+
+.btn-dark-custom {
+	background-color: #49274a;
+	color: #fff;   
+    border-color: #343a40;	
 }
 
 

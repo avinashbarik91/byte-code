@@ -72,9 +72,13 @@
 							industries.
 						</p>
 
-						<p>	
-							I am currently working as software engineer at Pixel Together, developing new features and tools for the Pixel Together platform as well as for World Academy of Sport. The pleasure derived from problem-solving and working on a product that truly impacts people's lives, is what drives me. I have a broad experience in the software industry which includes software development, automation testing and user-experience design. 
-						</p>				
+						<p>
+							I am currently working as software engineer at Pixel Together, developing new features and tools for the Pixel Together platform as well as for World Academy of Sport. 
+						</p>
+
+						<p>
+							Problem-solving and working on a product that truly impacts people's lives, is what drives me. I have a broad experience in the software industry which includes software development, automation testing and user-experience design. 
+						</p>
 
 						<p>	
 							My interests include following and learning the latest trends in the field of technology, playing/following cricket and badminton and graphic designing.
@@ -179,27 +183,46 @@
 		</div><!-- End container wrapper-->
 
 		<div class="container-wrapper mb-2 pt-2">
-			<div class="container py-5">	
-				<div class="row mb-4">
+			<div class="container text-center text-md-left py-5">	
+
+				<div class="row mb-5">
 					<section class="col-md-12">
 						<h3 class="section-title text-center pb-4">BLOG</h3>
 					</section>
-					<section class="section-detail offset-md-2 col-md-5 text-left">	
+					<section class="section-detail offset-md-2 col-md-5">	
 						<h3>Blog Title 1</h3>
 						<p class="text-secondary">February 17th, 2019</p>					
 						<p>
-							I am currently working as software engineer at Pixel Together, developing new features and tools for the Pixel Together platform as well as for World Academy of Sport. The pleasure derived from .
+							I am currently working as software engineer at Pixel Together, developing new features and tools for the Pixel Together platform as well as for World Academy of Sport.
 						</p>
-						<button type="button" class="btn btn-dark">Read More</button>
+						<button type="button" class="btn btn-dark-custom">Read More</button>
 					</section>
 					<section class="col-md-3">
-						<figure>
+						<figure class="pt-1">
 							<img class="rounded"src="images/blog1.jpeg" alt="Blog 1" width="250" height="180">
 						</figure>
 						<figcaption class="text-center">Blog title 1 caption</figcaption>
 					</section>					
 				</div> <!-- End row -->
-			</div><!-- End container -->
+
+				<div class="row mb-5">					
+					<section class="section-detail offset-md-2 col-md-5">	
+						<h3>Blog Title 2</h3>
+						<p class="text-secondary">February 17th, 2019</p>					
+						<p>
+							I am currently working as software engineer at Pixel Together, developing new features and tools for the Pixel Together platform as well as for World Academy of Sport.
+						</p>
+						<button type="button" class="btn btn-dark-custom">Read More</button>
+					</section>
+					<section class="col-md-3">
+						<figure class="pt-1">
+							<img class="rounded"src="images/blog2.jpeg" alt="Blog 1" width="250" height="180">
+						</figure>
+						<figcaption class="text-center">Blog title 2 caption</figcaption>
+					</section>					
+				</div> <!-- End row -->
+
+			</div><!-- End container wrapper-->
 		</div>
 
 	<div class="footer bg-dark" style="height: 50px;">
