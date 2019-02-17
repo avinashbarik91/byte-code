@@ -77,7 +77,7 @@
 		</div>	
 
 		<div class="container-wrapper mb-3 px-5">
-			<div class="container py-5">	
+			<div class="container pb-3">	
 				<div class="row mb-4">
 					<section class="col-md-12">
 						<h3 class="section-title text-center pb-4">WHO AM I?</h3>
