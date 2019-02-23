@@ -7,16 +7,17 @@ body {
 }
 
 .navbar {
-	background-color: white;	
+	background-color: #3e3c3ea6 !important;    
 }
 
-.navbar a, .navbar-brand {
+.navbar a {
+    margin: 0px 10px 0px 10px;
 	transition: color 0.2s ease;
-	color: #49274a;
+	color: white;
 }
 
 .navbar a:hover {
-	color: #2b2b2b;
+	color: #e8e8e8;
 }
 
 .timeline {
@@ -42,7 +43,7 @@ body {
 	font-family: 'Oswald', sans-serif;
 	color: #49274a;	
 	position: relative;
-	width: 200px;
+    width: 260px;
 	margin: auto;
 }
 
@@ -54,7 +55,7 @@ body {
     background-color: #49274a;
     position: absolute;
     top: 66%;
-    right: 32%;
+    right: 37%;
 }
 
 .navbar-brand, .section-title{	
@@ -68,7 +69,7 @@ body {
 .intro-bio-section {
 	height: 100vh;
     background: 
-    url(/images/avi-prof-7.JPG);
+    url(/images/avi-prof-8.JPG);
     background-repeat: no-repeat;
     background-position: right;
     background-size: cover; 
