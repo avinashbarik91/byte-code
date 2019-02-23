@@ -23,9 +23,7 @@
 		</div>	
 
 		<div class="content">
-
-		
-				
+			
 			<!-- <div class="row mb-5 p-5 rounded profile-section-top">
 				<section class="col-md-12 text-center mb-3">
 					<img class="rounded-circle" src="images/avinash_barik_prof_pic.jpg" style="width:20%;">
