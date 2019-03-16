@@ -220,7 +220,7 @@ body {
 }
 
 .proj-img img {
-    width: 96% !important;
+    width: 72% !important;
     border: 6px solid #feaa0a;
     filter: grayscale();
 }
@@ -263,6 +263,21 @@ body {
     transform: rotate(360deg);
   }
 }
+
+@media only screen and (max-width: 768px) {
+    .interests section div {
+        min-height: 263px;
+    }
+
+    #experience figure img{
+        width: 110px;
+    }
+
+    .projects-area section div {
+        min-height: 544px;
+    }
+}
+
 
 @media only screen and (max-width: 650px) {
     .navbar {
@@ -309,7 +324,7 @@ body {
     font-size: 1rem;
     display: inline-block;
     margin: 10px;
-    width: 100px;
+    width: 150px;
 }
 
 #contact a {
@@ -323,7 +338,7 @@ body {
 #contact .fas, #contact .fab{
     color: #49274a;
     margin: 5px;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 

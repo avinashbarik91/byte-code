@@ -5,6 +5,8 @@
 	<meta http-equip="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="x-ua-compatible" content="ie-edge">
+	<meta name="keywords" content="Software Engineer,HTML,CSS,XML,JavaScript,AWS,PHP,UX Design">
+  	<meta name="author" content="Avinash Barik">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom_styles.css">
 	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon.ico">
@@ -68,7 +70,7 @@
 								<div>
 									<i class="fas fa-object-group"></i>
 									<h5>DESIGN</h5>
-									<p>I have designed logos, brochures etc for companies.</p>
+									<p>I have designed logos, posters,brochures and other branding items for companies.</p>
 								</div>
 							</section>
 							<section class="col-md-3 mb-3">
@@ -128,6 +130,7 @@
 							<li>RSS Feed Generator - Auto-generation tool for websites created on Pixel Together platform.</li>
 							<li>Sitemap Generator - Analyses all pages within custom websites and generates a sitemap based on page link popularity and link depth.</li>
 							<li>User Funnel – Rewrite user funnel to cut compute time and help visualize user behavior on the Pixel Together platform.</li> 
+							<li>Feedback Generation & Reporting Tool – Generate dynamic feedback based on different courses and visualize feedback as dynamically generated and customizable reports.</li>
 					</section>
 					</section>
 				</div> <!-- End row -->
@@ -316,7 +319,7 @@
 					<section class="col-md-12">
 							<h3 class="section-title text-center pb-4">GET IN TOUCH</h3>
 							<p class="text-center"><a href="mailto:avinashbarik91@gmail.com"><i class="fas fa-envelope"></i>Email</a></p>
-							<p class="text-center"><a href="www.linkedin.com/in/avinashbarik"><i class="fab fa-linkedin"></i>LinkedIn</a></p>
+							<p class="text-center"><a href="https://www.linkedin.com/in/avinashbarik"><i class="fab fa-linkedin"></i>LinkedIn</a></p>
 							<p class="text-center"><a href="https://github.com/avinashbarik91"><i class="fab fa-github"></i>GitHub</a></p>
 					</section>
 				</section>
