@@ -1,4 +1,4 @@
-<nav class="navbar navbar-dark navbar-expand-sm mb-5 fixed-top">
+<nav class="navbar navbar-dark navbar-expand-sm mb-5 fixed-top p-0">
 	<div class="container">		
 
 		<button class="navbar-toggler" type="button"
@@ -10,9 +10,12 @@
 
 		<div class="collapse navbar-collapse" id="myTogglerNav">
 			<div class="navbar-nav ml-auto">
-				<a class="nav-item nav-link" href="#">Blog</a>
-				<a class="nav-item nav-link" href="#experience">About Me</a>	
-				<a class="nav-item nav-link" href="#">Contact</a>					
+				<a class="nav-item nav-link" href="#home">Home</a>
+				<a class="nav-item nav-link" href="#about-me">About Me</a>
+				<a class="nav-item nav-link" href="#experience">Experience</a>	
+				<a class="nav-item nav-link" href="#projects">Projects</a>
+				<a class="nav-item nav-link" href="#blog">Blog</a>				
+				<a class="nav-item nav-link" href="#contact">Contact</a>					
 			</div>
 		</div>
 	</div>

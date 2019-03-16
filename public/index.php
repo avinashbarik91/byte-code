@@ -10,41 +10,23 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato|Nunito|Oswald|Raleway|Roboto" rel="stylesheet">
 	<title>Avinash Barik | Software Engineer</title>
 </head>
-<body>
+<body data-spy="scroll" data-target=".navbar" data-offset="100">
 		
 	<!-- Add header -->
 	<?php include_once('header.inc'); ?>
 		
-	<div class="intro-bio-section text-center">
+	<div id="home" class="intro-bio-section text-center">
 		<div class="intro-bio-text-area">
 			<span>Hey, I'm</span>
 			<h1>AVINASH BARIK</h1>
 		</div>
 	</div>	
 
-	<div class="content">			
-	
-		<div class="container-wrapper mb-5 px-5">
-			<div class="container py-5">	
-				<div class="row mb-4">
-					<section class="col-md-12">
-						<h3 class="section-title text-center pb-4">WELCOME</h3>
-					</section>
-					<section class="section-detail offset-md-2 col-md-8 text-center">
-						<p>
-							Hi there! Welcome to my personal website. 
-						</p>
-						<p>I started this website to blog about tips, tricks and my day to day learnings, related to software and technology in general. I aim to write a few articles each week related to specific software problems I came across and how I went about solving it.</p>
+	<div class="content">
 
-						<a href="#blog-section" class="btn btn-dark-custom">Visit my Blog</a>						
-					</section>
-				</div> <!-- End row -->
-			</div><!-- End container -->
-		</div>	
-
-		<div class="container-wrapper mb-3 px-5">
-			<div class="container pb-3">	
-				<div class="row mb-4">
+		<div id="about-me" class="container-wrapper px-5">
+			<div class="container p-5">	
+				<div class="row">
 					<section class="col-md-12">
 						<h3 class="section-title text-center pb-4">WHO AM I?</h3>
 					</section>
@@ -67,8 +49,8 @@
 			</div><!-- End container -->
 		</div>
 
-		<div class="container-wrapper mb-5 pb-5">
-			<div id="experience" class="container pt-2">
+		<div id="experience" class="container-wrapper mb-5 pb-5">
+			<div class="container pt-2">
 				<div class="row mb-4 px-4 px-md-2">
 					<section class="col-md-12 pt-5">
 						<h3 class="section-title text-center pb-4">WORK EXPERIENCE</h3>
@@ -194,7 +176,7 @@
 			</div><!-- End container -->	
 		</div><!-- End container wrapper-->
 
-		<div class="container-wrapper mb-2 pt-2">
+		<div id="blog" class="container-wrapper mb-2 pt-2">
 			<div class="container text-center text-md-right py-5">	
 				<section id="blog-section" class="col-md-12">
 						<h3 class="section-title text-center pb-4">BLOG</h3>
