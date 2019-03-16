@@ -9,3 +9,12 @@ $(".contract-icon").click(function() {
 	$(this).siblings(".expand-icon").show();
 	$(this).hide();
 });
+
+$(".navbar-nav a[href^='#']").on('click', function(e){	
+	e.preventDefault();
+	var hash = this.hash;
+
+	$('html, body').animate({
+       scrollTop: $(hash).offset().top
+     }, 300);
+});
