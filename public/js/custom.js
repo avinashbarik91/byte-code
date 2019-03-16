@@ -18,3 +18,11 @@ $(".navbar-nav a[href^='#']").on('click', function(e){
        scrollTop: $(hash).offset().top
      }, 300);
 });
+
+$(document).ready(function(){
+	setTimeout(function(){
+		$(".lds-dual-ring").fadeOut();
+		$(".content, .intro-bio-section, .footer, .navbar").fadeIn(500);
+	}, 500);	
+});
+

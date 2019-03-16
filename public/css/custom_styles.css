@@ -3,6 +3,10 @@ body {
     color: #6c6c6d;
 }
 
+.content, .intro-bio-section, .navbar, .footer {
+    display: none;
+}
+
 .footer .footer-text {
 	line-height: 50px;
 }
@@ -118,37 +122,6 @@ body {
    	right: 100%;
 }
 
-@media only screen and (max-width: 650px) {
-    .navbar {
-        font-size: 0.8rem;
-    }
-}
-
-
-@media only screen and (max-width: 500px) {
-
-    .section-title {
-        width: 150px;
-    }
-
-    .intro-bio-section {
-        height: 77vh;
-    }
-
-    .intro-bio-text-area h1 {
-        font-size: 2.5rem;
-        width: 300px;
-        margin: auto;
-    }
-
-   .intro-bio-text-area h1::after {
-        width: 20px;
-    }
-
-    .intro-bio-text-area h1::before {
-        width: 20px;
-    }
-}
 
 .container-wrapper:nth-child(odd) {
 	background: #e9e9e97d;
@@ -162,6 +135,7 @@ body {
 	font-family: 'Oswald', sans-serif;
 	font-size: 1.5rem;
 	position: relative;
+    color: #7e4a80;
 }
 
 .expand-icon, .contract-icon {
@@ -192,7 +166,7 @@ body {
 
 .nav-link.active {    
     background-color: #4d2a4e9e !important;
-    transition: 0.5s ease;
+    transition: 0.2s ease;
 }
 
 .text-secondary {
@@ -206,13 +180,150 @@ body {
     margin: 10px;
 }
 
-.interests section div {
+.interests section div, .projects-area section div {
     padding: 5px;
     border: 1px solid #6563652b;
     min-height: 200px;
     font-size: 0.9rem;
     border-radius: 10px;
     background: white;
+    border-bottom: 4px solid #7e4a80;
+}
+
+.projects-area h4 {
+    color: #49274a;
+}
+
+.projects-area section div {
+    padding: 20px;   
+}
+
+.projects-area img {
+    width: 30px;
+    margin: 10px;
+}
+
+.projects-area .fab {
+    font-size: 2rem;
+}
+
+.projects-area .fab:hover {
+    opacity: 0.8;
+}
+
+.projects-area a {
+    color: black;
+}
+
+.projects-area a:hover {
+    text-decoration: none;    
+}
+
+.proj-img img {
+    width: 96% !important;
+    border: 6px solid #feaa0a;
+    filter: grayscale();
+}
+
+.proj-img a img:hover{
+    filter: initial;
+    transition: 0.5s ease !important;
+}
+
+.projects-area .answer-logo {
+    width: 46px;
+}
+
+.lds-dual-ring {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+  position: absolute;
+  left: 48%;
+  top: 49%;
+}
+
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 46px;
+  height: 46px;
+  margin: 1px;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  border-color: #49274a transparent #49274a transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media only screen and (max-width: 650px) {
+    .navbar {
+        font-size: 0.8rem;
+    }
+}
+
+
+@media only screen and (max-width: 500px) {
+
+    .nav-item.nav-link.active {
+        margin: 0;
+    }
+
+    .lds-dual-ring { 
+        left: 44%;
+        top: 40%;
+    }
+
+    .section-title {
+        width: 150px;
+    }
+
+    .intro-bio-section {
+        height: 77vh;
+    }
+
+    .intro-bio-text-area h1 {
+        font-size: 2.5rem;
+        width: 300px;
+        margin: auto;
+    }
+
+   .intro-bio-text-area h1::after {
+        width: 20px;
+    }
+
+    .intro-bio-text-area h1::before {
+        width: 20px;
+    }
+}
+
+#contact p{
+    font-size: 1rem;
+    display: inline-block;
+    margin: 10px;
+    width: 100px;
+}
+
+#contact a {
+    color: #49274a;
+}
+
+#contact a:hover {
+    text-decoration: none;
+}
+
+#contact .fas, #contact .fab{
+    color: #49274a;
+    margin: 5px;
+    font-size: 1rem;
 }
 
 

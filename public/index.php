@@ -7,11 +7,14 @@
 	<meta http-equiv="x-ua-compatible" content="ie-edge">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom_styles.css">
+	<link rel="icon" type="image/png" sizes="16x16" href="images/favicon.ico">
 	<link href="https://fonts.googleapis.com/css?family=Poppins|Nunito|Oswald|Raleway|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-	<title>Avinash Barik | Software Engineer</title>
+	<title>Avinash Barik | Software Engineer</title>	
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="100">
+
+	<div class="lds-dual-ring"></div>
 		
 	<!-- Add header -->
 	<?php include_once('header.inc'); ?>
@@ -52,23 +55,23 @@
 						
 					</section>
 					<section class="col-md-12 text-center">
-						<h3 class="section-title pb-4">I LOVE TO</h3>
+						<h3 class="section-title pb-4">INTERESTS</h3>
 						<div class="row interests">
-							<section class="col-md-3">
+							<section class="col-md-3 mb-3">
 								<div>
 									<i class="fas fa-code"></i>
 									<h5>CODE</h5>
 									<p>PHP, JAVA, JS, HTML/CSS, Bootstrap, SQL, AWS <br/> Current focus: Machine Learning.</p>
 								</div>
 							</section>
-							<section class="col-md-3">
+							<section class="col-md-3 mb-3">
 								<div>
 									<i class="fas fa-object-group"></i>
 									<h5>DESIGN</h5>
 									<p>I have designed logos, brochures etc for companies.</p>
 								</div>
 							</section>
-							<section class="col-md-3">
+							<section class="col-md-3 mb-3">
 								<div>
 									<i class="fas fa-chalkboard-teacher"></i>
 									<h5>TEACH</h5>
@@ -215,10 +218,59 @@
 			</div><!-- End container -->	
 		</div><!-- End container wrapper-->
 
-		<div id="blog" class="container-wrapper mb-2 pt-2">
+		<div id="projects" class="container-wrapper">
+			<div class="container p-5">	
+				<div class="row">
+					<section class="col-md-12">
+						<h3 class="section-title text-center pb-4">SELECTED PROJECTS</h3>
+
+					</section>
+					<section class="col-md-12 text-center">						
+						<div class="row projects-area">
+							<section class="col-md-6 mb-3">
+								<div class="flattr-div">
+									<section class="row">
+										<section class="col-md-12">
+											<img alt="Flattr CMS" src="images/flattr_main.png"/>
+											<h4>Flattr CMS</h4>
+											<p>Simple, Basic Flat File CMS for Personal Blogs.</p>
+											<p>Flattr-CMS is a simple flat file based CMS which can be integrated to any website to write blogs easily.</p>
+											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><i class="fab fa-github"></i></a>
+										</section>
+										<section class="proj-img col-md-12">
+											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><img alt="Flattr CMS" src="images/cms.png"/></a>
+										</section>
+									</section>
+								</div>
+							</section>
+							<section class="col-md-6">
+								<div class="flattr-div">
+									<section class="row">
+										<section class="col-md-12">
+											<img class="answer-logo" alt="Answer Me Quiz" src="images/answerme_main.png"/>
+											<h4>AnswerMe Quiz</h4>
+											<p>Category Based Android Quiz Game.</p>
+											<p>AnswerMe is a Quiz game which uses the Open Trivia Database API to source questions and answers.</p>
+											<a title="Link to AnswerMe Quiz" href="https://github.com/avinashbarik91/answer-me-quiz"><i class="fab fa-github"></i></a>
+										</section>
+										<section class="proj-img answer-me col-md-12">
+											<a title="Link to AnswerMe Quiz" href="https://github.com/avinashbarik91/answer-me-quiz"><img alt="Flattr CMS" src="images/answerme.png"/></a>
+										</section>
+									</section>
+								</div>
+							</section>						
+						</div>
+					</section >
+				</div> <!-- End row -->
+			</div><!-- End container -->
+		</div>
+
+
+		<!-- <div id="blog" class="d-none container-wrapper pt-2">
 			<div class="container text-center text-md-right py-5">	
 				<section id="blog-section" class="col-md-12">
 						<h3 class="section-title text-center pb-4">BLOG</h3>
+						<p class="text-center">Coming Soon</p>
 				</section>
 				<div class="row mb-5 px-4 px-md-2">					
 					<section class="offset-md-2 col-md-3">
@@ -236,7 +288,7 @@
 						<button type="button" class="btn btn-dark-custom">Read More</button>
 					</section>
 									
-				</div> <!-- End row -->
+				</div> End row
 
 				<div class="row mb-5">
 					<section class="offset-md-2 col-md-3">
@@ -254,19 +306,30 @@
 						<button type="button" class="btn btn-dark-custom">Read More</button>
 					</section>
 									
-				</div> <!-- End row -->
+				</div>
 
-			</div><!-- End container wrapper-->
+			</div>
+		</div> -->
+		<div id="contact" class="container-wrapper pt-2">
+			<div class="container py-5">	
+				<section class="row text-center">
+					<section class="col-md-12">
+							<h3 class="section-title text-center pb-4">GET IN TOUCH</h3>
+							<p class="text-center"><a href="mailto:avinashbarik91@gmail.com"><i class="fas fa-envelope"></i>Email</a></p>
+							<p class="text-center"><a href="www.linkedin.com/in/avinashbarik"><i class="fab fa-linkedin"></i>LinkedIn</a></p>
+							<p class="text-center"><a href="https://github.com/avinashbarik91"><i class="fab fa-github"></i>GitHub</a></p>
+					</section>
+				</section>
+			</div>
 		</div>
 	</div>
 	<!-- Add Footer -->
 	<?php include_once('footer.inc'); ?>	
 	
 	<script src="js/jquery.slim.min.js"></script>
-	<script src="js/jquery.min.js"></script>
-	<script src="js/custom.js"></script>
+	<script src="js/jquery.min.js"></script>	
 	<script src="js/popper.js"></script>
 	<script src="js/bootstrap.min.js"></script>
-	
+	<script src="js/custom.js?f=1"></script>
 </body>
 </html>
