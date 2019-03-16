@@ -12,29 +12,18 @@
 </head>
 <body>
 		
-		<!-- Add header -->
-		<?php include_once('header.inc'); ?>
-			
-		<div class="intro-bio-section text-center">
-			<div class="intro-bio-text-area">
-				<span>Hey, I'm</span>
-				<h1>AVINASH BARIK</h1>
-			</div>
-		</div>	
+	<!-- Add header -->
+	<?php include_once('header.inc'); ?>
+		
+	<div class="intro-bio-section text-center">
+		<div class="intro-bio-text-area">
+			<span>Hey, I'm</span>
+			<h1>AVINASH BARIK</h1>
+		</div>
+	</div>	
 
-		<div class="content">
-			
-			<!-- <div class="row mb-5 p-5 rounded profile-section-top">
-				<section class="col-md-12 text-center mb-3">
-					<img class="rounded-circle" src="images/avinash_barik_prof_pic.jpg" style="width:20%;">
-				</section>
-				<section class="col-md-12 text-center">
-					<h2>Avinash Barik</h2>
-					<h4>Software Engineer at Pixel Together | AWS Certified Solutions Architect - Associate</h4>
-					<h5 class="text-secondary">Melbourne, Australia</h5>
-				</section>
-			</div> -->
-
+	<div class="content">			
+	
 		<div class="container-wrapper mb-5 px-5">
 			<div class="container py-5">	
 				<div class="row mb-4">
@@ -248,7 +237,7 @@
 
 			</div><!-- End container wrapper-->
 		</div>
-
+	</div>
 	<!-- Add Footer -->
 	<?php include_once('footer.inc'); ?>	
 	
