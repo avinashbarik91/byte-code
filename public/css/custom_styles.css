@@ -1,5 +1,6 @@
 body {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Poppins', sans-serif;
+    color: #6c6c6d;
 }
 
 .footer .footer-text {
@@ -29,7 +30,7 @@ body {
 }
 
 .timeline-start {
-	background-color: #cacaca61;
+	background-color: #7e4a80;
     width: 10px;
     height: 10px;
     border-radius: 5px;
@@ -42,8 +43,9 @@ body {
 .section-title {
 	font-family: 'Oswald', sans-serif;	
 	position: relative;
-    width: 200px;
+    width: 260px;
 	margin: auto;
+    margin-bottom: 30px;
 }
 
 .section-title::after {
@@ -191,6 +193,26 @@ body {
 .nav-link.active {    
     background-color: #4d2a4e9e !important;
     transition: 0.5s ease;
+}
+
+.text-secondary {
+    color: #b9b9b9 !important;
+    font-size: 0.9rem;
+}
+
+.fas {
+    font-size: 2rem;
+    color: #7e4a80;
+    margin: 10px;
+}
+
+.interests section div {
+    padding: 5px;
+    border: 1px solid #6563652b;
+    min-height: 200px;
+    font-size: 0.9rem;
+    border-radius: 10px;
+    background: white;
 }
 
 
