@@ -116,11 +116,19 @@ body {
    	right: 100%;
 }
 
+@media only screen and (max-width: 650px) {
+    .navbar {
+        font-size: 0.8rem;
+    }
+}
+
+
 @media only screen and (max-width: 500px) {
 
     .section-title {
         width: 150px;
     }
+
     .intro-bio-section {
         height: 77vh;
     }
