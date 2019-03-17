@@ -182,12 +182,12 @@ body {
 
 .interests section div, .projects-area section div {
     padding: 5px;
-    border: 1px solid #6563652b;
-    min-height: 200px;
+    border: 1px solid #6563652b;    
+    min-height: 220px;
     font-size: 0.9rem;
     border-radius: 10px;
     background: white;
-    border-bottom: 4px solid #7e4a80;
+    border-bottom: 4px solid #7e4a80;     
 }
 
 .projects-area h4 {
@@ -276,11 +276,15 @@ body {
     .projects-area section div {
         min-height: 544px;
     }
+
+    .navbar {        
+        font-size: 0.8rem;
+    }
 }
 
 
 @media only screen and (max-width: 650px) {
-    .navbar {
+    .navbar {       
         font-size: 0.8rem;
     }
 }
@@ -325,6 +329,7 @@ body {
     display: inline-block;
     margin: 10px;
     width: 150px;
+    background: #efefef;
 }
 
 #contact a {

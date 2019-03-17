@@ -38,14 +38,12 @@
 					</section>
 					<section class="section-detail col-md-12 text-justify mb-3">
 						<p class="text-center">
-							I am an engineering professional with hands-on experience in developing and designing
+							<strong>TL;DR</strong><br/> I am an engineering professional with hands-on experience in developing and designing
 							software features, architecture and tools for traditional and large-scale distributed cloud-based
-							industries.
+							industries. I aspire to bring about a positive change through the software I build.
 						</p>
 
-						<p>The world of computers has fascinated me ever since I saw one at the age of seven. As early as I can remember, I've always wanted to build things. I was that kid who would deliberately break apart his toys and re-assemble them to understand how it works. It was just so much fun! The world of the software helped me realize this passion of creating things in a meaningful way. In this world I could build things and see them come to life. </p> 
-
-						<p>In this world I was a creator! </p>
+						<p>The world of computers has fascinated me ever since I saw one at the age of seven. As early as I can remember, I've always wanted to build things. I remember deliberately breaking apart toys and re-assembling them to understand how they worked. It was just so much fun! The world of the software helped me realize this passion of creating things in a meaningful way. In this world I could build things and see them come to life. </p>
 
 						<p>The yearning to understand the working of computers and softwares has been one of my desires while growing up. Although my heart skipped a beat every time I crashed my system, more often than not, the curiosity to know what all an application could do and how they worked made me learn something new. This desire grew many folds during my school and by the time I reached high school, I already had tried my hands in basic graphic design, 2D game development and web development.</p> 
 
@@ -57,34 +55,34 @@
 						
 					</section>
 					<section class="col-md-12 text-center">
-						<h3 class="section-title pb-4">INTERESTS</h3>
+						<h3 class="section-title pb-4">PROFILE</h3>
 						<div class="row interests">
-							<section class="col-md-3 mb-3">
+							<section class="col-md-4 mb-3">
 								<div>
-									<i class="fas fa-code"></i>
-									<h5>CODE</h5>
-									<p>PHP, JAVA, JS, HTML/CSS, Bootstrap, SQL, AWS <br/> Current focus: Machine Learning.</p>
+									<i class="fas fa-laptop"></i>									
+									<h5>DEV & TEST</h5>
+									<p>Proven track record of developing robust software including requirement gathering, architecting solutions and developing scripts for software test automation for large scale distributed systems.</p>
 								</div>
 							</section>
-							<section class="col-md-3 mb-3">
+							<section class="col-md-4 mb-3">
 								<div>
 									<i class="fas fa-object-group"></i>
 									<h5>DESIGN</h5>
-									<p>I have designed logos, posters,brochures and other branding items for companies.</p>
+									<p>Demonstrated aptitude to apply design thinking, develop wireframes, prototypes and conduct user testing to build usable software products.</p>
 								</div>
 							</section>
-							<section class="col-md-3 mb-3">
+							<!-- <section class="col-md-3 mb-3">
 								<div>
 									<i class="fas fa-chalkboard-teacher"></i>
 									<h5>TEACH</h5>
 									<p>I taught UX Design to university students during my Masters Degree.</p>
 								</div>
-							</section>
-							<section class="col-md-3">
+							</section> -->
+							<section class="col-md-4">
 								<div>
-									<i class="fas fa-baseball-ball"></i>
-									<h5>PLAY</h5>
-									<p>	When I am not working, I love to indulge in sports, especially cricket and badminton.</p>
+									<i class="fas fa-code"></i>
+									<h5>TECHNICAL PROFICIENCY</h5>
+									<p>PHP, Java, MySQL, HTTP, REST APIs, User Experience Design, Prototyping, Adobe Photoshop, HTML, CSS, JS, JQuery, Architecting on AWS, Software Testing</p>
 								</div>
 							</section>
 						</div>
@@ -218,6 +216,58 @@
 					</section>
 				</div> <!-- End row -->
 
+				<div class="row mb-4 pt-4 px-4 px-md-2">	
+					<section class="col-md-12 pt-5 pb-4">
+						<h3 class="section-title text-center pb-4">EDUCATION</h3>
+					</section>				
+					<section class="col-md-2">						
+						<figure>
+							<img src="images/swin.png" alt="Swinburne" width="170">
+						</figure>
+					</section>
+
+					<section class="d-none d-md-block col-md-1 mt-1">
+						<div class="timeline-start"></div>
+						<div class="timeline"></div>
+					</section>
+
+					<section class="col-md-9 text-left">					
+						<h5 class="job-title">Master of IT (Mobile & Cloud Computing)</h5>
+						<span class="expand-icon"><img src="images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="images/up1.png" width="20"></span>
+						<section class="job-description">
+							<p class="text-secondary">Feb 2016 – Dec 2017 <br/> Melbourne, Australia</p>
+							<p class="text-muted">CGPA - 3.7/4</p>
+							<p>This course enabled me in acquiring advanced skills in software development and introduced me to the state-of-the-art techniques used in the design and construction of software solutions, as well as the research skills needed to assess the effectiveness of a solution or technology.</p> 
+							<p>High Distinction in 11 out of 16 units such as User Centered Design, Database Analysis and Design, Object Oriented Programming, Creating Web Applications, Creating Data-Driven Mobile Apps, Capstone project etc.</p>
+							
+						</section>
+					</section>
+				</div> <!-- End row -->
+
+				<div class="row mb-4 pt-4 px-4 px-md-2">
+					<section class="col-md-2">						
+						<figure>
+							<img src="images/kiit.png" alt="KIIT" width="170">
+						</figure>
+					</section>
+
+					<section class="d-none d-md-block col-md-1 mt-1">
+						<div class="timeline-start"></div>
+						<div class="timeline"></div>
+					</section>
+
+					<section class="col-md-9 text-left">					
+						<h5 class="job-title">Bachelor of Technology, Mechanical Engineering</h5>
+						<span class="expand-icon"><img src="images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="images/up1.png" width="20"></span>
+						<section class="job-description">
+							<p class="text-secondary">Aug 2009 – May 2013 <br/> Bhubaneswar, India</p>
+							<p class="text-muted">CGPA - 8.4/10</p>	
+						</section>
+					</section>
+				</div> <!-- End row -->
+
 			</div><!-- End container -->	
 		</div><!-- End container wrapper-->
 
@@ -225,7 +275,7 @@
 			<div class="container p-5">	
 				<div class="row">
 					<section class="col-md-12">
-						<h3 class="section-title text-center pb-4">SELECTED PROJECTS</h3>
+						<h3 class="section-title text-center pb-4">PERSONAL PROJECTS</h3>
 
 					</section>
 					<section class="col-md-12 text-center">						
