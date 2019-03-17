@@ -111,7 +111,7 @@
 							<img src="https://d28qd0hzg413m1.cloudfront.net/images/pt.png" alt="PT" width="170">
 						</figure>
 					</section>
-					<section class="d-none d-md-block col-md-1 mt-1">
+					<section class="d-none d-md-block col-md-1 mt-1 timeline-start-parent">
 						<div class="timeline-start"></div>
 						<div class="timeline"></div>
 					</section>
@@ -145,7 +145,7 @@
 				<div class="row mb-5 px-4 px-md-2">					
 					<section class="col-md-2">						
 					</section>
-					<section class="d-none d-md-block col-md-1 mt-1">
+					<section class="d-none d-md-block col-md-1 mt-1 timeline-start-parent">
 						<div class="timeline-start"></div>
 						<div class="timeline"></div>
 					</section>
@@ -170,7 +170,7 @@
 						</figure>
 					</section>
 
-					<section class="d-none d-md-block col-md-1 mt-1">
+					<section class="d-none d-md-block col-md-1 mt-1 timeline-start-parent">
 						<div class="timeline-start"></div>
 						<div class="timeline"></div>
 					</section>
@@ -203,7 +203,7 @@
 						</figure>
 					</section>
 
-					<section class="d-none d-md-block col-md-1 mt-1">
+					<section class="d-none d-md-block col-md-1 mt-1 timeline-start-parent">
 						<div class="timeline-start"></div>
 						<div class="timeline"></div>
 					</section>
@@ -235,7 +235,7 @@
 						</figure>
 					</section>
 
-					<section class="d-none d-md-block col-md-1 mt-1">
+					<section class="d-none d-md-block col-md-1 mt-1 timeline-start-parent">
 						<div class="timeline-start"></div>
 						<div class="timeline"></div>
 					</section>
@@ -261,7 +261,7 @@
 						</figure>
 					</section>
 
-					<section class="d-none d-md-block col-md-1 mt-1">
+					<section class="d-none d-md-block col-md-1 mt-1 timeline-start-parent">
 						<div class="timeline-start"></div>
 						<div class="timeline"></div>
 					</section>

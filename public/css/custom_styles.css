@@ -33,6 +33,10 @@ body {
     margin: auto;
 }
 
+.timeline-start-parent {
+    padding-top: 8px;
+}
+
 .timeline-start {
 	background-color: #7e4a80;
     width: 10px;
