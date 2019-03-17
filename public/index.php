@@ -19,7 +19,7 @@
   	<meta name="author" content="Avinash Barik">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom_styles.css">
-	<link rel="icon" type="image/png" sizes="16x16" href="http://d28qd0hzg413m1.cloudfront.net/images/favicon.ico">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://d28qd0hzg413m1.cloudfront.net/images/favicon.ico">
 	<link href="https://fonts.googleapis.com/css?family=Poppins|Nunito|Oswald|Raleway|Roboto" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<title>Avinash Barik | Software Engineer</title>	
@@ -108,7 +108,7 @@
 					</section>
 					<section class="col-md-2">						
 						<figure>
-							<img src="http://d28qd0hzg413m1.cloudfront.net/images/pt.png" alt="PT" width="170">
+							<img src="https://d28qd0hzg413m1.cloudfront.net/images/pt.png" alt="PT" width="170">
 						</figure>
 					</section>
 					<section class="d-none d-md-block col-md-1 mt-1">
@@ -117,8 +117,8 @@
 					</section>
 					<section class="col-md-9 text-left">					
 						<h5 class="job-title">Software Engineer</h5>
-						<span class="expand-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
-						<span class="contract-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
+						<span class="expand-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
 						<section class="job-description">
 							<p class="text-secondary">November 2017-Present <br/> Melbourne, Australia</p>
 							
@@ -151,8 +151,8 @@
 					</section>
 					<section class="col-md-9 text-left">					
 						<h5 class="job-title">Software Engineering Intern</h5>
-						<span class="expand-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
-						<span class="contract-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
+						<span class="expand-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
 						<section class="job-description">
 							<p class="text-secondary">Aug 2017 – Oct 2017 <br/> Melbourne, Australia</p>
 							
@@ -166,7 +166,7 @@
 				<div class="row mb-4 pt-4 px-4 px-md-2">					
 					<section class="col-md-2">						
 						<figure>
-							<img src="http://d28qd0hzg413m1.cloudfront.net/images/tcs.png" alt="TCS" width="170">
+							<img src="https://d28qd0hzg413m1.cloudfront.net/images/tcs.png" alt="TCS" width="170">
 						</figure>
 					</section>
 
@@ -177,8 +177,8 @@
 
 					<section class="col-md-9 text-left">					
 						<h5 class="job-title">Systems Engineer (Software Test Automation)</h5>
-						<span class="expand-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
-						<span class="contract-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
+						<span class="expand-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
 						<section class="job-description">
 							<p class="text-secondary">Dec 2013 – Jan 2016 <br/> Bengaluru, India</p>
 							
@@ -199,7 +199,7 @@
 					</section>				
 					<section class="col-md-2">						
 						<figure>
-							<img src="http://d28qd0hzg413m1.cloudfront.net/images/swin.png" alt="Swinburne" width="170">
+							<img src="https://d28qd0hzg413m1.cloudfront.net/images/swin.png" alt="Swinburne" width="170">
 						</figure>
 					</section>
 
@@ -210,8 +210,8 @@
 
 					<section class="col-md-9 text-left">					
 						<h5 class="job-title">Academic Sessional Tutor (Part Time)</h5>
-						<span class="expand-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
-						<span class="contract-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
+						<span class="expand-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
 						<section class="job-description">
 							<p class="text-secondary">Mar 2017 – Oct 2017 <br/> Melbourne, Australia</p>
 							
@@ -231,7 +231,7 @@
 					</section>				
 					<section class="col-md-2">						
 						<figure>
-							<img src="http://d28qd0hzg413m1.cloudfront.net/images/swin.png" alt="Swinburne" width="170">
+							<img src="https://d28qd0hzg413m1.cloudfront.net/images/swin.png" alt="Swinburne" width="170">
 						</figure>
 					</section>
 
@@ -242,8 +242,8 @@
 
 					<section class="col-md-9 text-left">					
 						<h5 class="job-title">Master of IT (Mobile & Cloud Computing)</h5>
-						<span class="expand-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
-						<span class="contract-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
+						<span class="expand-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
 						<section class="job-description">
 							<p class="text-secondary">Feb 2016 – Dec 2017 <br/> Melbourne, Australia</p>
 							<p class="text-muted">CGPA - 3.7/4</p>
@@ -257,7 +257,7 @@
 				<div class="row mb-4 pt-4 px-4 px-md-2">
 					<section class="col-md-2">						
 						<figure>
-							<img src="http://d28qd0hzg413m1.cloudfront.net/images/kiit.png" alt="KIIT" width="170">
+							<img src="https://d28qd0hzg413m1.cloudfront.net/images/kiit.png" alt="KIIT" width="170">
 						</figure>
 					</section>
 
@@ -268,8 +268,8 @@
 
 					<section class="col-md-9 text-left">					
 						<h5 class="job-title">Bachelor of Technology, Mechanical Engineering</h5>
-						<span class="expand-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
-						<span class="contract-icon"><img src="http://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
+						<span class="expand-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/down1.png" width="20"></span>
+						<span class="contract-icon"><img src="https://d28qd0hzg413m1.cloudfront.net/images/up1.png" width="20"></span>
 						<section class="job-description">
 							<p class="text-secondary">Aug 2009 – May 2013 <br/> Bhubaneswar, India</p>
 							<p class="text-muted">CGPA - 8.4/10</p>	
@@ -293,14 +293,14 @@
 								<div class="flattr-div">
 									<section class="row">
 										<section class="col-md-12">
-											<img alt="Flattr CMS" src="http://d28qd0hzg413m1.cloudfront.net/images/flattr_main.png"/>
+											<img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/flattr_main.png"/>
 											<h4>Flattr CMS</h4>
 											<p>Simple, Basic Flat File CMS for Personal Blogs.</p>
 											<p>Flattr-CMS is a simple flat file based CMS which can be integrated to any website to write blogs easily.</p>
 											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><i class="fab fa-github"></i></a>
 										</section>
 										<section class="proj-img col-md-12">
-											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><img alt="Flattr CMS" src="http://d28qd0hzg413m1.cloudfront.net/images/cms.png"/></a>
+											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/cms.png"/></a>
 										</section>
 									</section>
 								</div>
@@ -309,14 +309,14 @@
 								<div class="flattr-div">
 									<section class="row">
 										<section class="col-md-12">
-											<img class="answer-logo" alt="Answer Me Quiz" src="http://d28qd0hzg413m1.cloudfront.net/images/answerme_main.png"/>
+											<img class="answer-logo" alt="Answer Me Quiz" src="https://d28qd0hzg413m1.cloudfront.net/images/answerme_main.png"/>
 											<h4>AnswerMe Quiz</h4>
 											<p>Category Based Android Quiz Game.</p>
 											<p>AnswerMe is a Quiz game which uses the Open Trivia Database API to source questions and answers.</p>
 											<a title="Link to AnswerMe Quiz" href="https://github.com/avinashbarik91/answer-me-quiz"><i class="fab fa-github"></i></a>
 										</section>
 										<section class="proj-img answer-me col-md-12">
-											<a title="Link to AnswerMe Quiz" href="https://github.com/avinashbarik91/answer-me-quiz"><img alt="Flattr CMS" src="http://d28qd0hzg413m1.cloudfront.net/images/answerme.png"/></a>
+											<a title="Link to AnswerMe Quiz" href="https://github.com/avinashbarik91/answer-me-quiz"><img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/answerme.png"/></a>
 										</section>
 									</section>
 								</div>
@@ -337,7 +337,7 @@
 				<div class="row mb-5 px-4 px-md-2">					
 					<section class="offset-md-2 col-md-3">
 						<figure class="pt-1">
-							<img class="rounded"src="http://d28qd0hzg413m1.cloudfront.net/images/blog1.jpeg" alt="Blog 1" width="250" height="180">
+							<img class="rounded"src="https://d28qd0hzg413m1.cloudfront.net/images/blog1.jpeg" alt="Blog 1" width="250" height="180">
 						</figure>
 						<figcaption class="text-center">Blog title 1 caption</figcaption>
 					</section>	
@@ -355,7 +355,7 @@
 				<div class="row mb-5">
 					<section class="offset-md-2 col-md-3">
 						<figure class="pt-1">
-							<img class="rounded"src="http://d28qd0hzg413m1.cloudfront.net/images/blog2.jpeg" alt="Blog 1" width="250" height="180">
+							<img class="rounded"src="https://d28qd0hzg413m1.cloudfront.net/images/blog2.jpeg" alt="Blog 1" width="250" height="180">
 						</figure>
 						<figcaption class="text-center">Blog title 2 caption</figcaption>
 					</section>
