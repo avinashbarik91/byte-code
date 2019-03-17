@@ -300,7 +300,7 @@
 											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><i class="fab fa-github"></i></a>
 										</section>
 										<section class="proj-img col-md-12">
-											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><img alt="Flattr CMS" src="http://d28qd0hzg413m1.cloudfront.net/images/cms.PNG"/></a>
+											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><img alt="Flattr CMS" src="http://d28qd0hzg413m1.cloudfront.net/images/cms.png"/></a>
 										</section>
 									</section>
 								</div>
