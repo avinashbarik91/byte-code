@@ -291,7 +291,7 @@
 											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><i class="fab fa-github"></i></a>
 										</section>
 										<section class="proj-img col-md-12">
-											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><img alt="Flattr CMS" src="images/cms.png"/></a>
+											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><img alt="Flattr CMS" src="images/cms.PNG"/></a>
 										</section>
 									</section>
 								</div>
