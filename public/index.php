@@ -16,9 +16,8 @@
 </head>
 <body data-spy="scroll" data-target=".navbar" data-offset="100">
 
-	<div class="lds-dual-ring"></div>
-		
-	<!-- Add header -->
+	<div class="lds-dual-ring"></div>		
+	
 	<?php include_once('header.inc'); ?>
 		
 	<div id="home" class="intro-bio-section text-center">
