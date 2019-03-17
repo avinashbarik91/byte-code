@@ -3,9 +3,9 @@ body {
     color: #6c6c6d;
 }
 
-/*.content, .intro-bio-section, .navbar, .footer {
+.content, .intro-bio-section, .navbar, .footer {
     display: none;
-}*/
+}
 
 .footer .footer-text {
 	line-height: 50px;

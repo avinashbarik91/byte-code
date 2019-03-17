@@ -22,7 +22,7 @@ $(".navbar-nav a[href^='#']").on('click', function(e){
 $(document).ready(function(){
 	setTimeout(function(){
 		$(".lds-dual-ring").fadeOut();
-		//$(".content, .intro-bio-section, .footer, .navbar").fadeIn(500);
+		$(".content, .intro-bio-section, .footer, .navbar").fadeIn(500);
 		$(".navbar-nav .home-link").addClass("active");		
 	}, 500);
 });
