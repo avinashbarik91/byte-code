@@ -20,7 +20,7 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom_styles.css">
 	<link rel="icon" type="image/png" sizes="16x16" href="https://d28qd0hzg413m1.cloudfront.net/images/favicon.ico">
-	<link href="https://fonts.googleapis.com/css?family=Poppins|Nunito|Oswald|Raleway|Roboto" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Poppins|Oswald" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<title>Avinash Barik | Software Engineer</title>	
 </head>
@@ -388,10 +388,10 @@
 	<!-- Add Footer -->
 	<?php include('footer.inc'); ?>	
 	
-	<script src="js/jquery.slim.min.js"></script>
-	<script src="js/jquery.min.js"></script>	
-	<script src="js/popper.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/custom.js?f=1"></script>
+	<script src="https://d28qd0hzg413m1.cloudfront.net/js/jquery.slim.min.js"></script>
+	<script src="https://d28qd0hzg413m1.cloudfront.net/js/jquery.min.js"></script>	
+	<script src="https://d28qd0hzg413m1.cloudfront.net/js/popper.js"></script>
+	<script src="https://d28qd0hzg413m1.cloudfront.net/js/bootstrap.min.js"></script>
+	<script src="https://d28qd0hzg413m1.cloudfront.net/js/custom.js?f=1"></script>
 </body>
 </html>
