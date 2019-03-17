@@ -267,7 +267,7 @@ body {
 
 @media only screen and (max-width: 768px) {
     .interests section div {
-        min-height: 263px;
+        min-height: 220px;
     }
 
     #experience figure img{
@@ -283,15 +283,41 @@ body {
     }
 }
 
+@media only screen and (max-width: 1200px) {
+    
+    .interests section div {
+        min-height: 330px;     
+    }
+}
+
 
 @media only screen and (max-width: 650px) {
     .navbar {       
         font-size: 0.8rem;
     }
+
+    .interests section div {
+        min-height: 220px;     
+    }
+}
+
+@media only screen and (max-width: 990px) {
+   
+    .interests section div {
+        min-height: 330px;     
+    }
+
+    #experience figure img{
+        width: 110px;
+    }
 }
 
 
 @media only screen and (max-width: 500px) {
+
+    .interests section div {
+        min-height: 220px;     
+    }
 
     .nav-item.nav-link.active {
         margin: 0;
@@ -316,7 +342,7 @@ body {
         margin: auto;
     }
 
-   .intro-bio-text-area h1::after {
+    .intro-bio-text-area h1::after {
         width: 20px;
     }
 
