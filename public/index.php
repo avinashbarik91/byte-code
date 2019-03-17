@@ -18,7 +18,7 @@
 
 	<div class="lds-dual-ring"></div>		
 	
-	<?php include_once('header.inc'); ?>
+	<?php include('header.inc'); ?>
 		
 	<div id="home" class="intro-bio-section text-center">
 		<div class="intro-bio-text-area">
@@ -376,7 +376,7 @@
 		</div>
 	</div>
 	<!-- Add Footer -->
-	<?php include_once('footer.inc'); ?>	
+	<?php include('footer.inc'); ?>	
 	
 	<script src="js/jquery.slim.min.js"></script>
 	<script src="js/jquery.min.js"></script>	
