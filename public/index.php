@@ -17,6 +17,11 @@
 	<meta http-equiv="x-ua-compatible" content="ie-edge">
 	<meta name="keywords" content="Software Engineer,HTML,CSS,XML,JavaScript,AWS,PHP,UX Design">
   	<meta name="author" content="Avinash Barik">
+  	<meta property='og:title' content='Avinash Barik | Software Engineer'/>
+	<meta property='og:image' content='https://d28qd0hzg413m1.cloudfront.net/images/avi-prof-8.JPG'/>
+	<meta property='og:description' content='I am an engineering professional with hands-on experience in developing and designing
+							software features, architecture and tools'/>
+	<meta property='og:url' content='www.avinashbarik.com'/>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<link rel="stylesheet" href="css/custom_styles.css">
 	<link rel="icon" type="image/png" sizes="16x16" href="https://d28qd0hzg413m1.cloudfront.net/images/favicon.ico">
@@ -47,7 +52,7 @@
 					</section>
 					<section class="section-detail col-md-12 text-justify mb-3">
 						<p class="text-center">
-							<strong>TL;DR</strong><br/> I am an engineering professional with hands-on experience in developing and designing
+							<strong>TL;DR</strong><br/>I am an engineering professional with hands-on experience in developing and designing
 							software features, architecture and tools for traditional and large-scale distributed cloud-based
 							industries. I aspire to bring about a positive change through the software I build.
 						</p>
@@ -91,7 +96,7 @@
 								<div>
 									<i class="fas fa-code"></i>
 									<h5>TECHNICAL PROFICIENCY</h5>
-									<p>PHP, Java, MySQL, HTTP, REST APIs, User Experience Design, Prototyping, Adobe Photoshop, HTML, CSS, JS, JQuery, Architecting on AWS, Software Testing</p>
+									<p>PHP, Java, MySQL, HTTP, REST APIs, User Experience Design, Prototyping, Adobe Photoshop, HTML, CSS, Bootstrap, JS, JQuery, Architecting on AWS, Software Testing</p>
 								</div>
 							</section>
 						</div>
