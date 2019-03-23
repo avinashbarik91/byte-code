@@ -12,7 +12,7 @@ body {
 }
 
 .navbar {
-	background-color: #252425c4 !important;    
+	background-color: rgba(37,36,37,0.77) !important;
 }
 
 .navbar a {
@@ -26,7 +26,7 @@ body {
 }
 
 .timeline {
-	background-color: #cacaca61;
+	background-color: rgba(202, 202, 202, 0.38);
     width: 5px;
     height: 100%;
     border-radius: 5px;
@@ -129,7 +129,7 @@ body {
 
 
 .container-wrapper:nth-child(odd) {
-	background: #e9e9e97d;
+	background: rgba(233,233,233,0.49);
 }
 
 .section-detail p:first-child {
@@ -154,11 +154,11 @@ body {
 	display: none;
 }
 
-.btn-dark-custom {
+/*.btn-dark-custom {
 	background-color: #49274a;
 	color: #fff;   
     border-color: #343a40;	
-}
+}*/
 
 .row {
     margin-top: 10px;
@@ -170,7 +170,7 @@ body {
 }
 
 .nav-link.active {    
-    background-color: #4d2a4e9e !important;
+    background-color: rgba(77,42,78,0.62) !important;
     transition: 0.2s ease;
 }
 
@@ -187,7 +187,7 @@ body {
 
 .interests section div, .projects-area section div {
     padding: 5px;
-    border: 1px solid #6563652b;    
+    border: 1px solid rgba(101, 99, 101, 0.169);    
     min-height: 220px;
     font-size: 0.9rem;
     border-radius: 10px;
