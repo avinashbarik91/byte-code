@@ -18,8 +18,10 @@
 	<meta name="keywords" content="Software Engineer,HTML,CSS,XML,JavaScript,AWS,PHP,UX Design">
   	<meta name="author" content="Avinash Barik">
 	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/custom_styles.css">
-	<link rel="icon" type="image/png" sizes="16x16" href="https://d28qd0hzg413m1.cloudfront.net/images/favicon.ico">
+	<link rel="stylesheet" href="css/custom_styles.css">	
+	<link rel="icon" type="image/png" sizes="32x32" href="https://d28qd0hzg413m1.cloudfront.net/images/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="https://d28qd0hzg413m1.cloudfront.net/images/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="https://d28qd0hzg413m1.cloudfront.net/images/favicon-16x16.png">
 	<link href="https://fonts.googleapis.com/css?family=Poppins|Oswald" rel="stylesheet">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 	<title>Avinash Barik | Software Engineer</title>	
