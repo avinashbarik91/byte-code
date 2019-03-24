@@ -6,7 +6,7 @@
 */
 
 define(ADMIN_ID, "avinashbarik91");
-define(ADMIN_PASSWORD, "avi1@345");
+define(ADMIN_PASSWORD, "");
 define(PATH_TO_POSTS, $_SERVER['DOCUMENT_ROOT'] . "/posts/");
 define(POST_FILENAME, "blog_directory.json");
 define(TINY_MCE_API_KEY, "04qe270rku2oi9r0x49bl83hawj7ff4bn49triqjbgh0t9iw");
