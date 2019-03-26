@@ -1,3 +1,3 @@
 # Personal Website
-## www.avinashbarikcom
+www.avinashbarik.com
 By Avinash Barik
