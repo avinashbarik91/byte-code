@@ -269,6 +269,17 @@ body {
   }
 }
 
+pre {
+    background: #f7f7f7 !important;
+}
+
+pre code {
+    font-size: 87.5%;
+    color: #e83e8c !important;
+    word-break: break-word;
+}
+
+
 @media only screen and (max-width: 768px) {
     .interests section div {
         min-height: 220px;
