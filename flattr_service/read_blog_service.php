@@ -247,7 +247,7 @@ function render_post_index_html($request_url, $full_path, $blog, $blogs, $prev_b
 							<a alt="Share on Facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=' . $full_path .'" target="_blank" class="facebook-share-btn"></a>
 
 							<!-- LinkedIn -->
-							<a alt="Share on LinkedIn" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=' . $full_path . '&title=' . $blog->content->blogTitle . '&source='. $_SERVER["HTTP_HOST"] .'>&summary=Read my latest blog" target="_blank" class="linked-in-share-btn"></a>
+							<a alt="Share on LinkedIn" title="Share on LinkedIn" href="https://www.linkedin.com/shareArticle?mini=true&url=' . $full_path . '&title=' . $blog->content->blogTitle . '&source='. $full_path .'&summary=Read my latest blog" target="_blank" class="linked-in-share-btn"></a>
 					</div>			
 				</div>
 
