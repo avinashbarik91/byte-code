@@ -367,6 +367,16 @@ body.admin-login-page {
 	display: none;
 }
 
+pre {
+    background: #f7f7f7 !important;
+}
+
+pre code {
+    font-size: 87.5%;
+    color: #e83e8c !important;
+    word-break: break-word;
+}
+
 
 @media screen and (max-width : 1000px) {
 	img {
