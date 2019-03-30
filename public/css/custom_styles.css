@@ -239,6 +239,28 @@ body {
     width: 46px;
 }
 
+#blog p a {
+    color: #a554a9;
+}
+
+
+.blogs-all-link {
+    color: white !important;
+    background: #49274a;
+    border: none;
+}
+
+.blogs-all-link a:hover {
+    text-decoration: none;
+}
+
+#all-blog-link:hover { 
+    background: #f49c1a;      
+    opacity: 0.8;
+    transition: 0.5s ease !important;
+}
+
+
 .lds-dual-ring {
   display: inline-block;
   width: 64px;

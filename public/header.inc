@@ -12,9 +12,9 @@
 			<div class="navbar-nav ml-auto">
 				<a class="nav-item nav-link home-link" href="#home">Home</a>
 				<a class="nav-item nav-link" href="#about-me">About Me</a>
+				<a class="nav-item nav-link" href="#blog">Blog</a>	
 				<a class="nav-item nav-link" href="#experience">Experience</a>	
-				<a class="nav-item nav-link" href="#projects">Projects</a>
-				<!-- <a class="nav-item nav-link" href="#blog">Blog</a> -->				
+				<a class="nav-item nav-link" href="#projects">Projects</a>							
 				<a class="nav-item nav-link" href="#contact">Contact</a>					
 			</div>
 		</div>

@@ -11,7 +11,7 @@ define(PATH_TO_POSTS, $_SERVER['DOCUMENT_ROOT'] . "/posts/");
 define(POST_FILENAME, "blog_directory.json");
 define(TINY_MCE_API_KEY, "04qe270rku2oi9r0x49bl83hawj7ff4bn49triqjbgh0t9iw");
 define(TWITTER_HANDLE, "avinashbarik91");
-define(NAVBAR_BRAND, "Blogs");
+define(NAVBAR_BRAND, "Avinash Barik");
 define(OFFICIAL_EMAIL, "avinashbarik91@gmail.com");
 define(APP_VERSION_NO, "1.1");
 define(SHOW_COMMENTS_SECTION, true);

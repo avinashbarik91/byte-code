@@ -107,6 +107,24 @@
 			</div><!-- End container -->
 		</div>
 
+		<div id="blog" class="container-wrapper">
+			<div class="container p-5">	
+				<div class="row">
+					<section class="col-md-12">
+						<h3 class="section-title text-center pb-4">BLOG</h3>
+					</section>
+					<section class="section-detail col-md-12 text-center mb-3">						
+						<p></p>
+						<p>I write blogs about Programming Tips, Tricks, Tutorials and tech in general for developers. <br/> 
+							I use my very own <a href="https://www.flattr-cms.com" title="Flattr-CMS">Flattr-CMS</a> tool that I developed to write blogs. <p/>
+						
+						<a id="all-blog-link" class="btn blogs-all-link" href="posts/all" title="Checkout my blogs">Checkout my blogs</a>						
+						
+					</section>					
+				</div> <!-- End row -->
+			</div><!-- End container -->
+		</div>
+
 		<div id="experience" class="container-wrapper mb-5 pb-5">
 			<div class="container pt-2">
 				<div class="row mb-4 px-4 px-md-2">
