@@ -224,15 +224,20 @@ body {
     text-decoration: none;    
 }
 
+.proj-img {
+   overflow: hidden; 
+}
+
 .proj-img img {
     width: 72% !important;
-    border: 6px solid #feaa0a;
-    filter: grayscale();
+    border: 3px solid #feaa0a;
+    filter: grayscale();    
 }
 
 .proj-img a img:hover{
     filter: initial;
-    transition: 0.5s ease !important;
+    transform: scale(1.03);
+    transition: 0.7s all !important;
 }
 
 .projects-area .answer-logo {
