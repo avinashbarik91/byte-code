@@ -218,7 +218,7 @@ function render_post_index_html($request_url, $full_path, $blog, $blogs, $prev_b
 					<div class="post-share-btns pt-2">
 						<p class="text-center">SHARE</p>
 							<!-- Twitter -->
-							<a alt="Share on Twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text="Read my latest blog - "' . $blog->content->blogTitle . '&url=' . $full_path . '&via=' . TWITTER_HANDLE . '" target="_blank" class="twitter-share-btn"></a>
+							<a alt="Share on Twitter" title="Share on Twitter" href="https://twitter.com/intent/tweet?text="Read my latest blog - ' . $blog->content->blogTitle . '&url=' . $full_path . '&via=' . TWITTER_HANDLE . '" target="_blank" class="twitter-share-btn"></a>
 
 							<!-- Facebook -->
 							<a alt="Share on Facebook" title="Share on Facebook" href="https://www.facebook.com/sharer/sharer.php?u=' . $full_path .'" target="_blank" class="facebook-share-btn"></a>
