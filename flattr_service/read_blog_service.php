@@ -171,7 +171,7 @@ function render_post_index_html($request_url, $full_path, $blog, $blogs, $prev_b
 		<meta property="og:title" content="' . $blog->content->blogTitle . '"/>		
 		<meta property="og:description" content="' . $blog->content->blogTitle . '"/>
 		<meta property="og:url" content="' . $full_path . '"/>
-		<meta property="og:type" content="Blog"/>
+		<meta property="og:type" content="article"/>
 		<meta property="og:image" content="' . read_blog_image($blog->content->blogContent) . '"/>
 		<link rel="shortcut icon" href="' . FAVICON_PATH . '" type="image/x-icon">
 		<link rel="icon" href="' . FAVICON_PATH . '" type="image/x-icon">
