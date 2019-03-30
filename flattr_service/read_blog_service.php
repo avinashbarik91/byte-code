@@ -78,7 +78,7 @@ function compare_dates($a, $b)
     return (strtotime($a->content->blogDate) < strtotime($b->content->blogDate) ? 1 : -1);
 }
 
-function read_blog_image($content)
+function read_blog_image_html($content)
 {	
 	$src = "";
 	$blog_image_div_html = "";
@@ -103,6 +103,28 @@ function read_blog_image($content)
 	}
 	
 	return $blog_image_div_html;
+								
+}
+
+
+function read_blog_image($content)
+{	
+	$src = "";	
+	
+	if (strpos($content, "<img ") !== false)
+	{
+		$parts = explode("<img ", $content);
+		$end = explode("/>", $parts[1]); 
+		$end = explode("src=", $end[0]);
+		$src = explode('"', $end[1]);	
+
+		if ($src[1] != "") 
+		{	
+			return $src[1];
+		}
+	}
+	
+	return "";
 								
 }
 
@@ -150,6 +172,7 @@ function render_post_index_html($request_url, $full_path, $blog, $blogs, $prev_b
 		<meta property="og:description" content="' . $blog->content->blogTitle . '"/>
 		<meta property="og:url" content="' . $full_path . '"/>
 		<meta property="og:type" content="Blog"/>
+		<meta property="og:image" content="' . read_blog_image($blog->content->blogContent) . '"/>
 		<link rel="shortcut icon" href="' . FAVICON_PATH . '" type="image/x-icon">
 		<link rel="icon" href="' . FAVICON_PATH . '" type="image/x-icon">
 		<link rel="stylesheet" href="../flattr/css/bootstrap.min.css">
@@ -312,7 +335,7 @@ function render_post_index_html($request_url, $full_path, $blog, $blogs, $prev_b
 											<span class="single-post-date">' . date('d M Y', strtotime($blog->content->blogDate)) . '</span>
 										</div>';
 
-										$index_html .= read_blog_image($blog->content->blogContent);
+										$index_html .= read_blog_image_html($blog->content->blogContent);
 
 									$index_html .=  '
 									</a>
