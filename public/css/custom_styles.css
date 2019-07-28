@@ -287,6 +287,11 @@ body {
   animation: lds-dual-ring 1.2s linear infinite;
 }
 
+.fa-chart-bar {
+    font-size: 2.9rem;
+    color: #feaa0a;
+}
+
 @keyframes lds-dual-ring {
   0% {
     transform: rotate(0deg);

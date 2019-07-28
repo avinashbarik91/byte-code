@@ -314,38 +314,54 @@
 					</section>
 					<section class="col-md-12 text-center">						
 						<div class="row projects-area">
-							<section class="col-md-6 mb-3">
+							<section class="col-md-4">
+								<div class="flattr-div">
+									<section class="row">
+										<section class="col-md-12">
+											<i class="fas fa-chart-bar"></i>
+											<h4>Compario</h4>
+											<p>Cricket Player Comparison Tool</p>
+											<p>Head to head stats comparison for cricket players on multiple metrics across Batting, Fielding and Bowling</p>
+											<a title="Link to Compario" href="https://github.com/avinashbarik91/compario"><i class="fab fa-github"></i></a>
+										</section>
+										<section class="proj-img answer-me col-md-12">
+											<a title="Link to AnswerMe Quiz" target='_blank' href="https://www.compario.dev"><img alt="Compario" src="https://d28qd0hzg413m1.cloudfront.net/images/compario-1.png"/></a>
+										</section>
+									</section>
+								</div>
+							</section>	
+							<section class="col-md-4 mb-3">
 								<div class="flattr-div">
 									<section class="row">
 										<section class="col-md-12">
 											<img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/flattr_main.png"/>
 											<h4>Flattr CMS</h4>
-											<p>Simple, Basic Flat File CMS for Personal Blogs.</p>
+											<p>Flat File CMS for Personal Blogs</p>
 											<p>Flattr-CMS is a simple flat file based CMS which can be integrated to any website to write blogs easily.</p>
 											<a title="Link to Flattr CMS Quiz" href="https://github.com/avinashbarik91/flattr-cms"><i class="fab fa-github"></i></a>
 										</section>
 										<section class="proj-img col-md-12">
-											<a title="Link to Flattr CMS Quiz" href="https://www.flattr-cms.com"><img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/cms.png"/></a>
+											<a title="Link to Flattr CMS" target='_blank' href="https://www.flattr-cms.com"><img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/cms.png"/></a>
 										</section>
 									</section>
 								</div>
 							</section>
-							<section class="col-md-6">
+							<section class="col-md-4">
 								<div class="flattr-div">
 									<section class="row">
 										<section class="col-md-12">
 											<img class="answer-logo" alt="Answer Me Quiz" src="https://d28qd0hzg413m1.cloudfront.net/images/answerme_main.png"/>
 											<h4>AnswerMe Quiz</h4>
-											<p>Category Based Android Quiz Game.</p>
+											<p>Category Based Android Quiz Game</p>
 											<p>AnswerMe is a Quiz game which uses the Open Trivia Database API to source questions and answers.</p>
 											<a title="Link to AnswerMe Quiz" href="https://github.com/avinashbarik91/answer-me-quiz"><i class="fab fa-github"></i></a>
 										</section>
 										<section class="proj-img answer-me col-md-12">
-											<a title="Link to AnswerMe Quiz" href="https://github.com/avinashbarik91/answer-me-quiz"><img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/answerme.png"/></a>
+											<a title="Link to AnswerMe Quiz" target='_blank' href="https://github.com/avinashbarik91/answer-me-quiz"><img alt="Flattr CMS" src="https://d28qd0hzg413m1.cloudfront.net/images/answerme.png"/></a>
 										</section>
 									</section>
 								</div>
-							</section>						
+							</section>												
 						</div>
 					</section >
 				</div> <!-- End row -->
